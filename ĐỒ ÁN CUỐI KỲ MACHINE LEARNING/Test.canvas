@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4512e4c5b967de59","x":-560,"y":-200,"width":400,"height":400,"type":"file","file":"ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/ĐỒ ÁN CUỐI KỲ NHẬP MÔN HỌC MÁY.md"},
+		{"id":"f7302d0ff69172fc","x":60,"y":-200,"width":400,"height":400,"type":"file","file":"ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/MÔ HÌNH TRANSFORMERS.md"}
+	],
+	"edges":[
+		{"id":"6b0c205e175608c0","fromNode":"4512e4c5b967de59","fromSide":"right","toNode":"f7302d0ff69172fc","toSide":"left"}
+	]
+}
