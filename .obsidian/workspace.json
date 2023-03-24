@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "42d8987253f5b02d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2ad8cfe49915975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "119ad98bcba28ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/MÔ HÌNH TRANSFORMERS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92de09ba47589e59",
+    "type": "split",
+    "children": [
+      {
+        "id": "459d152ea07fca05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "499bc3808bf23c93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc080904b72ed883",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0a5cfe85ff48503",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "934565b71d2dff11",
+    "type": "split",
+    "children": [
+      {
+        "id": "103be7a75c9ae362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24b0be9db77df320",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/MÔ HÌNH TRANSFORMERS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8cc7ed546a11c36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/MÔ HÌNH TRANSFORMERS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "273a23ba21eecb02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5fd6d98c6056e01",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/MÔ HÌNH TRANSFORMERS.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "119ad98bcba28ba4",
+  "lastOpenFiles": [
+    "README.md",
+    "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/ĐỒ ÁN CUỐI KỲ NHẬP MÔN HỌC MÁY.md",
+    "202303241244.md",
+    "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/MÔ HÌNH TRANSFORMERS.md",
+    "202303232336.md",
+    "Untitled.canvas",
+    "2023-03-23.md",
+    "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/Test.canvas",
+    "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/Pictures",
+    "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING",
+    "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/Pictures/Pasted image 20230323210812.png",
+    "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/Pictures/Pasted image 20230323170741.png",
+    "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/Pictures/Pasted image 20230323163954.png",
+    "MACHINE LEARNING.md",
+    "Đồ án cuối kỳ Nhập môn học máy.md"
+  ]
+}
