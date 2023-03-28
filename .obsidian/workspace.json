@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/ĐỒ ÁN CUỐI KỲ NHẬP MÔN HỌC MÁY.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/ĐỒ ÁN CUỐI KỲ NHẬP MÔN HỌC MÁY.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/ĐỒ ÁN CUỐI KỲ NHẬP MÔN HỌC MÁY.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/ĐỒ ÁN CUỐI KỲ NHẬP MÔN HỌC MÁY.md"
+                "file": "README.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   "active": "119ad98bcba28ba4",
   "lastOpenFiles": [
     "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/MÔ HÌNH TRANSFORMERS.md",
-    "1.md",
     "ĐỒ ÁN CUỐI KỲ MACHINE LEARNING/ĐỒ ÁN CUỐI KỲ NHẬP MÔN HỌC MÁY.md",
+    "1.md",
     "README.md",
     "202303241244.md",
     "202303232336.md",

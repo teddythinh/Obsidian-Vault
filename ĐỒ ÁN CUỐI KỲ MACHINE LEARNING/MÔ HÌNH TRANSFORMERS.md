@@ -82,10 +82,12 @@ Mô hình GPT được phát triển bởi OpenAI và công bố vào năm 2018 
 Trong quá trình tiền huấn luyện, mô hình học để dự đoán các từ tiếp theo có trong một câu khi được đưa các từ trước đó. Quá trình này giúp mô hình xây dựng một vốn hiểu biết tổng quát của cấu trúc của ngôn ngữ.
 
 Mô hình GPT đã chứng minh là đạt được một kết quả tiên tiến nhất (State-of-the-art) trong các tác vụ NLP bao gồm Language Generation, Question Answering,...
+
 Hiện tại, mô hình GPT đã được cải tiến lên thành GPT-2, GPT-3, GPT-4 và đặc biệt hơn là được đưa vào sử dụng trong thực tế với ứng dụng ChatGPT với hơn 100 triệu người dùng chỉ sau 10 ngày ra mắt.
 
 # Tham khảo 
 [Transformers, explained: Understand the model behind GPT, BERT, and T5](https://youtu.be/SZorAJ4I-sA)
+
 Alec Radford, Karthik Narasimhan, Tim Salimans, Ilya Sutskever. (2018). Improving Language Understanding by Generative Pre-Training.
 
 Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
