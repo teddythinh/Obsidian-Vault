@@ -1,3 +1,7 @@
+# Exclude cache files from the repository (https://publish.obsidian.md/git-doc/06+Tips-and-Tricks)
+# To exclude Obsidian's settings (including plugin and hotkey configurations)
+.obsidian/
+
 # OR only to exclude workspace cache
 .obsidian/workspace.json
 
